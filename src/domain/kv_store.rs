@@ -37,7 +37,7 @@ impl Value {
     }
 }
 
-
+#[derive(Debug, PartialEq, Clone)]
 pub enum KVStoreError {
     NotFound,
     WriteError,
@@ -57,7 +57,7 @@ impl Database {
         Database {data: IndexMap::new()}
     }
 
-    fn get(&self, key: &Key) -> Result<Value, KVStoreError> {
+    pub fn get(&self, key: &Key) -> Result<Value, KVStoreError> {
         let result = self.data.get(key);
         if let Some(value) = result {
             return Ok(value.clone()); 
@@ -65,15 +65,15 @@ impl Database {
         Err(KVStoreError::NotFound)
     }
 
-    fn set(&mut self, key: Key, value: Value) -> Result<(), KVStoreError> {
+    pub fn set(&mut self, key: Key, value: Value) -> Result<(), KVStoreError> {
         let result = self.data.insert(key, value);
-        if result.is_err() [
+        if result.is_err() {
             return Err(KVStoreError::WriteError);
-        ]
+        }
         Ok(())
     }
 
-    fn delete(&mut self, key: &Key) -> Result<(), KVStoreError> {
+    pub fn delete(&mut self, key: &Key) -> Result<(), KVStoreError> {
         self.data.swap_remove(key);
         Ok(())
     }
