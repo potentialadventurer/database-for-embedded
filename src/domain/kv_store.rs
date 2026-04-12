@@ -1,7 +1,7 @@
-use heapless::{String, FnvIndexMap as IndexMap};
+use heapless::{String, index_map::FnvIndexMap as IndexMap};
 
 
-#[derive(PartialEq, Clone, Debug)]
+#[derive(PartialEq, Clone, Debug, Hash, Eq)]
 pub struct Key(String<16>);
 
 impl Key {
