@@ -41,7 +41,7 @@ impl Value {
 pub enum KVStoreError {
     NotFound,
     WriteError,
-    EraseError,
+    //EraseError,
     TooLongError,
     UnknownError,
 }
@@ -75,7 +75,7 @@ impl Database {
 
     pub fn delete(&mut self, key: &Key) -> Result<(), KVStoreError> {
         self.data.swap_remove(key);
+        
         Ok(())
     }
 }
-

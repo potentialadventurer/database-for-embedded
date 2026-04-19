@@ -1,0 +1,14 @@
+/home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/deps/thiserror-4dbbfe7e27f46c8d.d: /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/build/thiserror-8e10bbe68b9ae709/out/private.rs
+
+/home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/deps/libthiserror-4dbbfe7e27f46c8d.rlib: /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/build/thiserror-8e10bbe68b9ae709/out/private.rs
+
+/home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/deps/libthiserror-4dbbfe7e27f46c8d.rmeta: /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/build/thiserror-8e10bbe68b9ae709/out/private.rs
+
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs:
+/home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/build/thiserror-8e10bbe68b9ae709/out/private.rs:
+
+# env-dep:OUT_DIR=/home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/build/thiserror-8e10bbe68b9ae709/out

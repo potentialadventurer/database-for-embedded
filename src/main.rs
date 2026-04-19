@@ -22,6 +22,8 @@ fn main() -> ! {
     let answer = db.get(&key);
     hprintln!("value: {:?}", answer);
 
+    let answer = db.delete(&key);
+
 
     loop{}
     
