@@ -4,6 +4,7 @@
 use panic_halt as _;
 use cortex_m_rt::entry;
 use cortex_m_semihosting::hprintln;
+use stm32f1xx_hal::{flash::{FlashExt, FlashSize, SectorSize}, pac};
 
 mod domain;
 use domain::kv_store::{Database, Key, Value};
@@ -19,7 +20,7 @@ fn main() -> ! {
     let _ = db.set(key.clone(), value);
 
     let answer = db.get(&key);
-    hprintln!("value: {:?}, answer");
+    hprintln!("value: {:?}", answer);
 
 
     loop{}
