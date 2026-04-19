@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/roninfrompi/Documents/GitHub/database-for-embedded/target/debug/build/stm32f1-4ed5911f8cae325b/out
+cargo:rerun-if-changed=src/stm32f103/device.x
+cargo:rerun-if-changed=build.rs
