@@ -1,0 +1,9 @@
+/home/roninfrompi/Documents/GitHub/database-for-embedded/target/thumbv7m-none-eabi/debug/deps/embedded_io-20f5259685edaaa1.d: /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/lib.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/mod.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/slice_mut.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/slice_ref.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/../README.md
+
+/home/roninfrompi/Documents/GitHub/database-for-embedded/target/thumbv7m-none-eabi/debug/deps/libembedded_io-20f5259685edaaa1.rmeta: /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/lib.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/mod.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/slice_mut.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/slice_ref.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/../README.md
+
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/lib.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/mod.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/slice_mut.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/impls/slice_ref.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-0.6.1/src/../README.md:

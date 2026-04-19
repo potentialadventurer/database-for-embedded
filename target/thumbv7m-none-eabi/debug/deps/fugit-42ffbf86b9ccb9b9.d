@@ -1,0 +1,10 @@
+/home/roninfrompi/Documents/GitHub/database-for-embedded/target/thumbv7m-none-eabi/debug/deps/fugit-42ffbf86b9ccb9b9.d: /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/lib.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/aliases.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/duration.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/helpers.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/instant.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/rate.rs
+
+/home/roninfrompi/Documents/GitHub/database-for-embedded/target/thumbv7m-none-eabi/debug/deps/libfugit-42ffbf86b9ccb9b9.rmeta: /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/lib.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/aliases.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/duration.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/helpers.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/instant.rs /home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/rate.rs
+
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/lib.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/aliases.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/duration.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/helpers.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/instant.rs:
+/home/roninfrompi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fugit-0.3.9/src/rate.rs:
